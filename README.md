@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🌃 Bonne nuit ! 🌃</h1>
+<h1>🌃 Bonne Nuit ! 🌃</h1>
 <h2>🌃 Good Night! 🌃</h2>
 <h3>🌃おやすみ Oyasumi! 🌃</h3>
 
