@@ -3,6 +3,14 @@
   <link rel="stylesheet" href="dark.css" media="(prefers-color-scheme: dark)">
 </head>
 
+# Mon profil GitHub
+
+${{ env.THEME_LIGHT }}
+
+## Thème sombre
+
+${{ env.THEME_DARK }}
+
 <div align="center">
     <div class="texte-clair">
     <h1>🌃 Bonjour ! 🌃</h1>
